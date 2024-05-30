@@ -1,0 +1,23 @@
+.container{
+    margin-top: 30px;
+    text-align: center;
+    background-color: bisque;
+    margin: 5;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+p{
+    text-decoration: overline;
+}
+#calcButton{
+    background-color: black;
+    border: black;
+}
+#calcButton:hover {
+    background-color: white;
+    color: black;
+}
+body{
+    background-color: antiquewhite;
+}
